@@ -9,6 +9,9 @@ Soy Leonardo alumno de la maestria en ciencia de datos, de la udg
 *[Source: GIPHY]([pegar_link_aquí](https://media.giphy.com/media/maIEBUU5OmrMA/giphy.gif)https://media.giphy.com/media/maIEBUU5OmrMA/giphy.gif)*
 
 
+La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/LeonardoDPantoja/hello/blob/main/docs/Referencias.md).
+
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
