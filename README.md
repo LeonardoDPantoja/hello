@@ -16,6 +16,9 @@ This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository.
 
 _Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
 
+### Original
+Original idea by [Tiffany Timbers](https://github.com/ttimbers) in the repository [ttimbers/hello](https://github.com/ttimbers/hello). Thank you Tiffany!
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
