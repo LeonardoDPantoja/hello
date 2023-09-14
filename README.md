@@ -11,6 +11,8 @@ Soy Leonardo alumno de la maestria en ciencia de datos, de la udg
 
 La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/LeonardoDPantoja/hello/blob/main/docs/Referencias.md).
 
+### Original idea
+This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
