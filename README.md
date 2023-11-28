@@ -23,3 +23,12 @@ Original idea by [Tiffany Timbers](https://github.com/ttimbers) in the repositor
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
+
+Hola, soy una intrusa. Me llamo Yukie y quiero ser tu amiga. 
+XOXO. 
+
+
+
+![](https://media.giphy.com/media/3oEduR6BxaE9undCIU/giphy.gif)
+
+*[Source: GIPHY]([pegar_link_aquí](https://media.giphy.com/media/3oEduR6BxaE9undCIU/giphy.gif)*
